@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696204654604",
+    "project_id": "farm-management-system-edda7",
+    "storage_bucket": "farm-management-system-edda7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696204654604:android:4721a8434d60cb1b9a5629",
+        "android_client_info": {
+          "package_name": "com.example.farm_management_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-FpblHUeJTMrPFF3NJY0IuB8J6adcTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
